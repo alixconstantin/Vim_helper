@@ -3,7 +3,7 @@
 h, j, k, l : se déplacer à gauche, en bas, en haut et à droite respectivement.  
 w : aller au début du mot suivant.  
 b : aller au début du mot précédent.  
-0 : aller au début de la ligne.  
+^ : aller au début de la ligne.  
 $ : aller à la fin de la ligne.  
 gg : aller au début du fichier.  
 G : aller à la fin du fichier.  
