@@ -49,4 +49,9 @@ v : passer en mode visuel pour sélectionner du texte.
 V : sélectionner des lignes entières.  
 y : copier la sélection.  
 p : coller après le curseur.
-
+  
+  
+## Bonus :   
+Ctrl + Z : Retourner sur le terminal sans kill Vim  
+( Shell ) jobs : Affiche les Vim qui tourne  
+( Shell ) fg : retourner sur le Vim  
